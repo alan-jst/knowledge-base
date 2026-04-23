@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(qmd add *)",
+      "Bash(qmd collection *)",
+      "Bash(qmd embed *)",
+      "Bash(qmd status *)",
+      "Bash(qmd search *)",
+      "Bash(python *)"
+    ]
+  }
+}

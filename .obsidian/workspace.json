@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "f6123c7c5d4fc43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "934544dd1d42dc95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd2b25754df464c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/academic-workflow-setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "academic-workflow-setup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bb4bf50ab30b3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f01792f2126b72e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30bb880ed8f4ec4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "76aaeed924dd0c47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8211e7e23fa8ce02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3b3c5fbc3ef7ec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2c9aefd6eb38a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d92dbbffdf776eda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/articles/AI工程师入学工具与学习清单.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "AI工程师入学工具与学习清单 的反向链接列表"
+            }
+          },
+          {
+            "id": "8a2636f351a0ae7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/articles/AI工程师入学工具与学习清单.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "AI工程师入学工具与学习清单 的出链列表"
+            }
+          },
+          {
+            "id": "29c93aa20c960535",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4dd4a93367a617ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "80e2b864ce8a255c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/academic-workflow-setup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "academic-workflow-setup 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "dfd2b25754df464c",
+  "lastOpenFiles": [
+    "raw/clippings/LLM Wiki 搭建教程 - 飞书云文档.md",
+    "raw/clippings/Bash 指南四篇之 bash 是什么，它活在哪里？.md",
+    "raw/articles/AI工程师入学工具与学习清单.md",
+    "wiki/sources/agent-skills-minimalist-guide.md",
+    "wiki/entities/clash.md",
+    "wiki/sources/ai-engineer-tools-learning-checklist.md",
+    "wiki/concepts/ai-engineer-onboarding.md",
+    "wiki/index.md",
+    "wiki/templates/synthesis-template.md",
+    "wiki/templates/concept-template.md",
+    "wiki/templates/entity-template.md",
+    "wiki/templates/personal-writing-template.md",
+    "wiki/templates/source-template.md",
+    "wiki/log.md",
+    "wiki/overview.md",
+    "wiki/QUESTIONS.md",
+    "CLAUDE.md",
+    "content.base",
+    "learning-resource-curation.md",
+    "model-api-usage.md",
+    "wiki/entities/project-gutenberg.md",
+    "wiki/entities/z-library.md",
+    "wiki/entities/discord.md",
+    "wiki/entities/discord.md.tmp.27076.1776865339612",
+    "wiki/concepts/model-api-usage.md",
+    "wiki/concepts/research-toolchain-integration.md",
+    "wiki/concepts/research-workflow-automation.md",
+    "wiki/concepts/scientific-networking.md",
+    "wiki/index.md.tmp.27076.1776864044579",
+    "Clippings",
+    "未命名 1.base"
+  ]
+}
