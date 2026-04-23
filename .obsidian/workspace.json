@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/academic-workflow-setup.md",
+                "file": "raw/clippings/Git使用教程之本地仓库的基本操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "academic-workflow-setup"
+              "title": "Git使用教程之本地仓库的基本操作"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/academic-workflow-setup.md",
+                "file": "raw/clippings/Git使用教程之本地仓库的基本操作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "academic-workflow-setup 的大纲"
+              "title": "Git使用教程之本地仓库的基本操作 的大纲"
             }
           }
         ],
@@ -186,6 +186,8 @@
   },
   "active": "dfd2b25754df464c",
   "lastOpenFiles": [
+    "wiki/concepts/academic-workflow-setup.md",
+    "raw/clippings/Git使用教程之本地仓库的基本操作.md",
     "raw/clippings/LLM Wiki 搭建教程 - 飞书云文档.md",
     "raw/clippings/Bash 指南四篇之 bash 是什么，它活在哪里？.md",
     "raw/articles/AI工程师入学工具与学习清单.md",
@@ -212,8 +214,6 @@
     "wiki/entities/discord.md.tmp.27076.1776865339612",
     "wiki/concepts/model-api-usage.md",
     "wiki/concepts/research-toolchain-integration.md",
-    "wiki/concepts/research-workflow-automation.md",
-    "wiki/concepts/scientific-networking.md",
     "wiki/index.md.tmp.27076.1776864044579",
     "Clippings",
     "未命名 1.base"
